@@ -1,4 +1,3 @@
-<h2 align="center">Hi 👋, I'm Anshuman</h2>
 <h3 align="center">I am a Software Engineer transitioning to Data Science and looking for some cool Projects to work on.</h3>
 
 - 🔭 I’m currently working on [PredictionPro](https://github.com/KANSHUMAN42/PredictionPro)
@@ -7,7 +6,7 @@
 
 - 💬 Ask me about **Python, Data Science , AI**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 

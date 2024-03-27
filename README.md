@@ -1,6 +1,6 @@
 <h3 align="center">I am a Software Engineer transitioning to Data Science and looking for some cool Projects to work on.</h3>
 
-- 🔭 I’m currently working on [PredictionPro](https://github.com/KANSHUMAN42/PredictionPro)
+- 🔭 I’m currently working on ML and AI projects.
 
 - 🌱 I’m currently learning **Machine Learning and Deep Learning**
 

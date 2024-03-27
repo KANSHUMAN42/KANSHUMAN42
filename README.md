@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Anshuman</h1>
-<h3 align="center">I am a Data Scientist working on some cool Projects.</h3>
+<h2 align="center">Hi 👋, I'm Anshuman</h2>
+<h3 align="center">I am a Software Engineer transitioning to Data Science and looking for some cool Projects to work on.</h3>
 
 - 🔭 I’m currently working on [PredictionPro](https://github.com/KANSHUMAN42/PredictionPro)
 

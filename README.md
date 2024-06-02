@@ -1,4 +1,4 @@
-<h3 align="center">I am a Software Engineer transitioning to Data Science and looking for some cool Projects to work on.</h3>
+<h3 align="center">I am a Software Engineer transitioning to AI/ML Engineer and looking for some cool Projects to work on.</h3>
 
 - 🔭 I’m currently working on ML and AI projects.
 

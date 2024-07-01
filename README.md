@@ -1,8 +1,6 @@
 <h3 align="center">I am a Software Engineer transitioning to AI/ML Engineer and looking for some cool Projects to work on.</h3>
 
-- 🔭 I’m currently working on ML and AI projects.
-
-- 🌱 I’m currently learning **Machine Learning and Deep Learning**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning and GenAI**
 
 - 💬 Ask me about **Python, Data Science , AI**
 
